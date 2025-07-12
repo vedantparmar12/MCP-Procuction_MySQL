@@ -4,13 +4,13 @@ A comprehensive Model Context Protocol (MCP) server for MySQL database operation
 
 ## Features
 
-- 🗄️ **Database Integration with Lifespan**: Direct MySQL database connection for all MCP tool calls
-- 🛠️ **Modular, Single Purpose Tools**: Following best practices around MCP tools and their descriptions
-- 🔐 **Role-Based Access**: GitHub username-based permissions for database write operations
-- 📊 **Schema Discovery**: Automatic table and column information retrieval
-- 🛡️ **SQL Injection Protection**: Built-in validation and sanitization
-- 📈 **Monitoring**: Optional Sentry integration for production monitoring
-- ☁️ **Cloud Native**: Powered by Cloudflare Workers for global scale
+- **Database Integration with Lifespan**: Direct MySQL database connection for all MCP tool calls
+- **Modular, Single Purpose Tools**: Following best practices around MCP tools and their descriptions
+- **Role-Based Access**: GitHub username-based permissions for database write operations
+- **Schema Discovery**: Automatic table and column information retrieval
+- **SQL Injection Protection**: Built-in validation and sanitization
+- **Monitoring**: Optional Sentry integration for production monitoring
+- **Cloud Native**: Powered by Cloudflare Workers for global scale
 
 ## Quick Start
 
@@ -389,6 +389,3 @@ For issues and questions:
 ---
 
 **Note**: This server is designed for production use with proper security measures. Always use strong passwords, enable SSL, and configure proper access controls in production environments.
-#   M C P - P r o c u c t i o n _ M y S Q L 
- 
- 
