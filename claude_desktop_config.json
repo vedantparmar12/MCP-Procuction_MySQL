@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "mysql-server": {
+      "command": "python",
+      "args": [
+        "C:/Users/vedan/Desktop/localgpt/SQLMCP/main.py"
+      ],
+      "env": {
+        "MYSQL_HOST": "localhost",
+        "MYSQL_PORT": "3306",
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "your_password_here",
+        "MYSQL_DATABASE": "testdb",
+        "MYSQL_CHARSET": "utf8mb4",
+        "MYSQL_AUTOCOMMIT": "true",
+        "MYSQL_POOL_SIZE": "5",
+        "MYSQL_SSL_MODE": "REQUIRED",
+        "GITHUB_ADMINS": "your_github_username",
+        "GITHUB_WRITERS": "",
+        "GITHUB_READERS": "",
+        "ENABLE_MONITORING": "false"
+      }
+    }
+  }
+}
