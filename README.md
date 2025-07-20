@@ -17,7 +17,7 @@ This is a production-ready MySQL MCP (Model Context Protocol) server that provid
 
 1. Clone and navigate to the project:
 ```bash
-cd C:\Users\vedan\Desktop\mcp-rag\MCP-Procuction_MySQL\MYSQL-Production
+cd C:\Users\MCP-Procuction_MySQL
 ```
 
 2. Install dependencies:
