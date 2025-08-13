@@ -4,7 +4,7 @@
 
 This is a production-ready MySQL MCP (Model Context Protocol) server that provides secure database access through MCP tools. The server includes authentication, monitoring, and comprehensive database operations.
 
-![Alt text](images/mcp-sql.png)
+![Alt text](mcp-sql.png)
 
 ## Quick Start
 
@@ -332,5 +332,6 @@ For issues and questions:
 2. Review logs for error details
 3. Consult the existing README.md and DEPLOYMENT.md files
 4. Check the test files for usage examples
+
 
 
